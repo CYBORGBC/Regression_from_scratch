@@ -1,0 +1,15 @@
+Day | Topic | Details | Goals
+1 | Regularization (L1, L2) | Theory of Ridge and Lasso, Implement Ridge Regression from scratch. | Prevent overfitting, learn weight penalty.
+2 | Softmax Regression | Multiclass Logistic Regression theory + code. Predict 3-class labels. | Understand softmax activation + categorical cross-entropy loss.
+3 | Train/Validation/Test Split + Mini Dataset Practice | Why splitting is critical, implement split manually and validate models. | Avoid overfitting to training data.
+4 | Mini-batch and Stochastic Gradient Descent | Implement mini-batch SGD from scratch. | Faster convergence on bigger datasets.
+5 | Feature Scaling & Normalization | Learn StandardScaler (mean 0, variance 1), MinMaxScaler. | Models converge faster + better performance.
+6 | Decision Trees (from scratch) | Theory of entropy, Gini impurity, recursive splitting. Code a simple tree. | Understand tree structure learning.
+7 | Random Forests | Ensemble of Decision Trees, bagging concept, basic Random Forest build. | Reduce variance + powerful prediction.
+8 | Project 1: Titanic Dataset (Classification) | Apply Logistic Regression, Decision Trees, Random Forests. | Full ML cycle: preprocessing, training, evaluation.
+9 | Support Vector Machines (SVM) | Large margin classifiers, hinge loss. Implement a basic SVM. | Understand margins and support vectors.
+10 | PCA (Principal Component Analysis) | Dimensionality reduction, eigenvectors, eigenvalues. Code PCA manually. | Visualize compressed data.
+11 | KMeans Clustering | Clustering unsupervised, Euclidean distances, centroids. Code KMeans. | Group similar data points.
+12 | Metrics for Evaluation | Accuracy, Precision, Recall, F1-Score, ROC Curve, AUC | Evaluate models properly, avoid accuracy trap.
+13 | Hyperparameter Tuning | Grid Search, Random Search basics (manual first). | Tune models to maximize performance.
+14 | Project 2: Build Your First Real ML Pipeline | From data preprocessing → training → hyperparameter tuning → final report. | Build like a real-world ML engineer.
